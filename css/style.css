@@ -1,0 +1,41 @@
+h1,
+h2 {
+    font-weight: bold;
+    color: coral;
+
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: darkred;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+.UnorderedList {
+    font-size: 20px;
+    color: darkred;
+}
+
+.OrderedList {
+    font-size: 20px;
+    color: darkred;
+}
+
+div>a>h2 {
+    color: blue;
+}
